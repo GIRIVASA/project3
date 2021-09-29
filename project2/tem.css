@@ -1,0 +1,190 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    width: 100%;
+    
+}
+.box{
+    width: 100%;
+}
+.section1{
+    background-image: url(Physics-and-business.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    
+}
+.head1{
+    width: 30%;
+    padding: 20px;
+    text-align: center;
+    float: left;
+    font-weight: bolder;
+    font-size: xx-large;
+    color:white;
+    
+}
+.head2{
+    
+    padding: 10px;
+    text-align: center;  
+    color:white;
+    
+}
+    
+a{
+    text-decoration: none;
+    padding: 5px;
+    text-align: center;
+    color:white;
+    display: inline-block;
+    margin-top: 20px;
+    font-weight:bolder ;   
+    
+}
+
+.b1{
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    margin: 20px 0px 20px 20px;
+    color:white;
+
+}
+.section2{
+    margin: 0px 60px 20px 60px;
+    
+}
+.block1{
+    width: 33.333333%;
+    float: left;
+    
+
+}
+.block2{
+    width: 33.333333%;
+    float: left;
+    
+
+}
+.block3{
+    width: 33.333333%;
+    float: left;
+    
+
+}
+#m1{
+    width: 100px;
+    float: left;
+   
+}
+.bt1{
+    margin-left: 100px;
+    background-color: skyblue;
+    border-radius: 10px;
+}
+p{
+    text-align: left;
+}
+.section3{
+    margin: 20px 60px 20px 60px;
+    
+
+    
+    
+}
+.h1{
+    font-size: xx-large;
+    margin: 20px 0px 40px 0px ;
+    
+}
+.block4{
+    width: 70%;
+    float: left;
+    
+    
+      
+}
+
+#m2{
+    
+    height:200px ;
+    
+   
+    
+    
+}
+.block5 {
+    width: 15%;
+    float: left;
+   
+    
+    
+    
+
+    
+}
+.block6{
+    width: 15%;
+    float: left;
+    
+   
+    
+    
+}
+ul :nth-child(n+1){
+    height: 50px;
+}
+.section4{
+    margin: 20px 0px 20px 60px;
+}
+.block7{
+    width: 33.333333%;
+    float: left;
+    margin-top: 30px;
+}
+.button1{
+    float: left;
+    background-color: skyblue;
+    border-radius: 10px;
+    
+}
+.block8{
+    width: 33.333333%;
+    float: left;
+    margin-top: 30px;
+}
+.block9{
+    width: 33.333333%;
+    float: left;
+}
+.b7{
+    font-size: xx-large;
+    font-weight: bolder;
+    
+}
+
+.p1{
+    margin: 0px 0px 0px 0px;
+}
+.d1{
+    width: 50px;
+    margin:-10px  20px 20px 20px;
+    
+    float: left;
+}
+.d2{
+    width:400px;
+    margin:0px  20px 20px 20px;
+    
+}
+.b8{
+    
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.giri{
+    text-align: center;
+    margin: 50px 20px 20px 20px;
+}
